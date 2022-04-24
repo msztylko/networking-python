@@ -11,4 +11,9 @@ Exploration of networking concepts in Python
 * [async-server.py](./async-server.py) - minimal async TCP server example
 
 ## Next steps
-While Python might be a good tool for network programming once you know the domain, it doesn't feel too good for learning networking. I want to learn this topic more with some different resources.
+While Python might be a good tool for network programming once you know the domain, it doesn't feel too good for learning networking. I want to learn this topic more with some different resources. Frequently recommended resources:
+1. [High Performance Browser Networking](https://hpbn.co/)
+2. [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
+3. [The Linux Programming Interface](https://man7.org/tlpi/)
+4. [Computer Networking: A Top-Down Approach](https://teachyourselfcs.com/#networking)
+5. Stevens's Unix Network Programming
